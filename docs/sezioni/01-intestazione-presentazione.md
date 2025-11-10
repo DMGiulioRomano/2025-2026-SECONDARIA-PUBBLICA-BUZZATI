@@ -1,4 +1,4 @@
-Con il laboratorio {{ progetto.titolo }}, modulo che ha visto un perfezionamento in itinere con uno storico pluriennale in altre scuole pubbliche della capitale, vogliamo catapultare gli studenti nel mondo della musica d'insieme.
+Con il laboratorio {{ progetto.titolo }}, modulo che **prosegue e consolida il percorso di musica d'insieme avviato con successo negli anni precedenti**, vogliamo catapultare gli studenti nel mondo della musica d’insieme.
 Accedere alla scuola secondaria significa accrescere la *consapevolezza di partecipare ad
 una comunità con le sue regole*, i suoi doveri, ma anche i suoi diritti.
 Il laboratorio presso la {{ progetto.sottotitolo }} potrebbe essere focalizzato sull’educazione civica e
