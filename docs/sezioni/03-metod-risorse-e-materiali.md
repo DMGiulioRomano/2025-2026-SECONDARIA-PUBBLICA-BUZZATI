@@ -1,18 +1,11 @@
 ## METODO: RISORSE E MATERIALI
 
-La **{{ metodologia.approccio }}** costituisce il canale privilegiato per entrare in contatto con i bambini. Il nostro approccio si basa sull'**osservazione delle reazioni** e sul **{{ metodologia.feedback_continuo | replace: true, "feedback continuo" }}** che ci permette di adattare ogni lezione alle risposte del gruppo.
+Il progetto adotta una **metodologia laboratoriale e partecipativa**, che costituisce il canale privilegiato per coinvolgere attivamente gli studenti e favorire un **apprendimento significativo**. L’approccio si fonda sull’**osservazione delle dinamiche di gruppo** e sul **feedback continuo**, elementi che permettono di adattare in tempo reale le attività alle esigenze, ai ritmi e agli interessi della classe.
 
-Attingendo al pensiero montessoriano, le attività vengono progettate attorno ai *lavori* sonori individuali. In questo stadio, il nostro ruolo consiste nel costruire gli oggetti ed osservarne l’utilizzo.
-Parallelamente progettiamo le pratiche collettive tenendo conto delle esigenze emerse.
+La pratica musicale si sviluppa attraverso l’integrazione di **voce, testo e movimento corporeo** con strumenti musicali di diversa natura:
 
-**Materiali forniti durante il corso:**  
-- Strumenti musicali e oggetti comuni per l'esplorazione sonora  
-- Fogli e matite colorate  
+* **Acustici**: pianoforte, batteria, percussioni;
+* **Elettrici**: chitarra e basso elettrici;
+* **Elettronici e digitali**: tastiere, computer per creazione di basi, live electronics e live coding.
 
-**Richieste alle famiglie:**  
-- Calzini antiscivolo  
-- Una merenda semplice e pratica (con una bustina richiudibile)  
-- Una piccola borraccia o una bottliglietta o un bicchiere per l'acqua  
-
-La filosofia del progetto prevede l'utilizzo creativo di materiali semplici e accessibili, trasformando l'ambiente e gli oggetti in opportunità di scoperta musicale. Non sono previsti supporti tecnologici o allestimenti per la diffusione di musica preregistrata, privilegiando le dimensioni educative della manualità e della partecipazione.
-
+Questa pluralità di strumenti consente un’esperienza **inclusiva, creativa e interdisciplinare**, dove ogni studente può trovare il proprio ruolo espressivo. L’utilizzo delle tecnologie digitali apre inoltre spazi di **innovazione e sperimentazione**, favorendo lo sviluppo di **competenze trasversali** come collaborazione, pensiero critico e creatività.
