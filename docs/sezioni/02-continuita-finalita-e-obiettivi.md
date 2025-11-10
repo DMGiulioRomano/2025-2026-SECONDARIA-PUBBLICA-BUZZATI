@@ -1,16 +1,18 @@
-## CONTINUITÀ, FINALITÀ E OBIETTIVI
+Il progetto intende utilizzare la musica come strumento educativo e inclusivo, capace di generare apprendimento significativo e di sviluppare competenze chiave europee attraverso un percorso creativo basato su testi tratti dalla Costituzione della Repubblica Italiana. La pratica musicale collettiva — articolata in laboratori di composizione e performance nei linguaggi rock, pop, rap ed elettronico — diventa un mezzo di espressione, collaborazione e cittadinanza attiva.
 
-Il corso dell'anno precedente ha evidenziato risultati significativi riguardo il coinvolgimento dei bambini nella costruzione di esperienze musicali collettive. La frequenza media per ogni incontro è stata di {{ corso.partecipanti_anno_precedente }} partecipanti. Il riscontro per noi più prezioso è arrivato dalle famiglie, che ci hanno riportato come i bambini hanno riproposto spontaneamente a casa le attività svolte: esplorare le sonorità dell' ambiente circostante, vocalizzare i suoni delle percussioni e trasformare oggetti quotidiani in strumenti musicali ad esempio sono chiari indicatori dell'interiorizzazione dell'esperienza vissuta.
+Finalità generali:    
 
-Quest'anno intendiamo consolidare l'approccio intrapreso, personalizzando il metodo progettato per adattarlo alle specificità di ogni bambino, concentrandosi sulle diverse modalità di apprendimento e supportando chi incontra particolari sfide nello svolgimento delle attività musicali.     
+- Promuovere la musica come linguaggio universale di espressione culturale, inclusione sociale e dialogo tra pari.
+  
+- Favorire l’acquisizione di competenze trasversali (collaborazione, pensiero critico, creatività, comunicazione) riconosciute nei framework europei.
+  
+- Rafforzare nei giovani la consapevolezza dei valori costituzionali, trasformando articoli della Costituzione in materiali di riflessione e di creazione artistica.
 
-<!--- meglio dirlo a voce durante la riunione
-Il progetto si fonda sul principio che l'apprendimento musicale nell'infanzia non produce necessariamente un risultato tangibile nel "saggio di fine anno", ma manifesta il suo valore nel **{{ metodologia.focus_principale }}** vissuto, che si concretizza nella coltivazione della capacità di ognuno di **inventare e ri-costruire mondi sonori** attraverso il gioco e la relazione con i maestri e i compagni.
--->
+Obiettivi specifici:    
 
-**Obiettivi specifici:**
-  - Sviluppare la capacità di ascolto attivo e l'invenzione sonora  
-  - Potenziare la coordinazione motoria attraverso l'esperienza musicale  
-  - Favorire l'esplorazione tattile ed uditiva utilizzando diversi materiali  
-  - Promuovere la socializzazione e la condivisione di spazi e tempi in comune  
-  - Stimolare la creatività nella costruzione di oggetti sonori  
+- Stimolare la condivisione e la collaborazione tra studenti attraverso la co-creazione musicale.
+  
+- Sviluppare pensiero critico e capacità di lettura attiva dei testi costituzionali, collegandoli alla realtà quotidiana dei giovani.
+  
+- Promuovere la cittadinanza attiva e la partecipazione responsabile, rendendo i principi costituzionali vivi e accessibili attraverso la musica e la performance pubblica.
+  
